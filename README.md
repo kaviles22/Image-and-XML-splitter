@@ -31,10 +31,11 @@ Collected images<br />
         - ...<br /> 
         
 The destination folder will have the following structure
-
-Splitted images<br /> 
-    train<br /> 
-    test<br /> 
+'''
+Splitted images
+    train
+    test
+'''
     
 The file should be placed on the main path, initially it should look like this:
   
