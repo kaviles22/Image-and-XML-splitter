@@ -32,21 +32,21 @@ Collected images<br />
         
 The destination folder will have the following structure
 
-Splitted images
-    train
-    test
+Splitted images<br /> 
+    train<br /> 
+    test<br /> 
     
 The file should be placed on the main path, initially it should look like this:
   
-Main path
-  Collected images
-  split_images_xml.py
+Main path<br /> 
+  Collected images<br /> 
+  split_images_xml.py<br /> 
   
 After running th file the directory will look like this:
 
-Main path
-  Collected images
-  Splitted images
-    - train
-    - test
-  split_images_xml.py
+Main path<br /> 
+  Collected images<br /> 
+  Splitted images<br /> 
+    - train<br /> 
+    - test<br /> 
+  split_images_xml.py<br /> 
