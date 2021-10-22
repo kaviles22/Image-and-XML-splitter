@@ -31,17 +31,16 @@ The folder containing the images should be organized this way:
         - ...<br /> 
         
 The destination folder will have the following structure
-'''
-Splitted images
-    train
-    test
-'''
+
+- Splitted images
+    - train
+    - test
     
 The file should be placed on the main path, initially it should look like this:
   
-Main path<br /> 
-  Collected images<br /> 
-  split_images_xml.py<br /> 
+- Main path 
+  - Collected images
+  - split_images_xml.py
   
 After running th file the directory will look like this:
 
