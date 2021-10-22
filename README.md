@@ -12,23 +12,23 @@ The folder containing the images should be organized this way:
 
 Collected images<br /> 
     class1<br /> 
-        - image1.jpg
-        - image1.xml
-        - image2.jpg
-        - image2.xml
-        - ...
-    class2
-        - image1.jpg
-        - image1.xml
-        - image2.jpg
-        - image2.xml
-        - ...
-    class3
-        - image1.jpg
-        - image1.xml
-        - image2.jpg
-        - image2.xml
-        - ...
+        - image1.jpg<br /> 
+        - image1.xml<br /> 
+        - image2.jpg<br /> 
+        - image2.xml<br /> 
+        - ...<br /> 
+    class2<br /> 
+        - image1.jpg<br /> 
+        - image1.xml<br /> 
+        - image2.jpg<br /> 
+        - image2.xml<br /> 
+        - ...<br /> 
+    class3<br /> 
+        - image1.jpg<br /> 
+        - image1.xml<br /> 
+        - image2.jpg<br /> 
+        - image2.xml<br /> 
+        - ...<br /> 
         
 The destination folder will have the following structure
 
