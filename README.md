@@ -10,8 +10,8 @@ This script will split the images that contain also an *xml* file with the same 
 
 The folder containing the images should be organized this way:
 
-Collected images<br /> 
-    class1<br /> 
+- Collected images<br /> 
+    - class1<br /> 
         - image1.jpg<br /> 
         - image1.xml<br /> 
         - image2.jpg<br /> 
