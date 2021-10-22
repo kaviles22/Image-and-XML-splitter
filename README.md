@@ -44,9 +44,9 @@ The file should be placed on the main path, initially it should look like this:
   
 After running th file the directory will look like this:
 
-Main path<br /> 
-  Collected images<br /> 
-  Splitted images<br /> 
-    - train<br /> 
-    - test<br /> 
-  split_images_xml.py<br /> 
+- Main path
+  - Collected images
+  - Splitted images 
+    - train
+    - test 
+  - split_images_xml.py 
