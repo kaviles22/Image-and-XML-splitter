@@ -8,6 +8,7 @@ This script will split the images that contain also an *xml* file with the same 
 - image2.xml
 - ...
 
+## Source folder
 The folder containing the images should be organized this way:
 
 - Collected images
@@ -29,19 +30,19 @@ The folder containing the images should be organized this way:
         - image2.jpg<br /> 
         - image2.xml<br /> 
         - ...<br /> 
-        
-The destination folder will have the following structure
 
+## Destination folder
+The destination folder will have the following structure
 - Splitted images
     - train
     - test
-    
+ 
 The file should be placed on the main path, initially it should look like this:
-  
 - Main path 
   - Collected images
   - split_images_xml.py
   
+## Final directory
 After running th file the directory will look like this:
 
 - Main path
