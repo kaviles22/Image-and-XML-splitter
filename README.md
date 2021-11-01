@@ -51,3 +51,6 @@ After running th file the directory will look like this:
     - train
     - test 
   - split_images_xml.py 
+
+## Command line
+python split_images_xml.py --image_folder= (*The path where all the images are stored*) --train_percentage= (*PERCENTAGE OF DATASET FOR TRAINING*)
