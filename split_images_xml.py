@@ -7,12 +7,11 @@
 import os
 import random as rnd
 import shutil
-
 import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--image_folder', help='The path where all the images are stored', type=str)
-parser.add_argument('--train_percentage', help='% training datase', type=float, default=0.8)
+parser.add_argument('--train_percentage', help='Percentage of dataset for training', type=float, default=0.8)
 FLAGS = parser.parse_args()
 
 folder_names = os.listdir(FLAGS.image_folder)
